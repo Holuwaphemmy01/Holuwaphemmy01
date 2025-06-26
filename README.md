@@ -1,4 +1,4 @@
-# Hi there, I'm Oluwafemi Jacob 👋
+# Hi there, I'm Oluwafemi 👋
 
 Welcome to my GitHub profile! I'm passionate about coding, technology, and solving complex problems with innovative solutions. Here's a little about me:
 
