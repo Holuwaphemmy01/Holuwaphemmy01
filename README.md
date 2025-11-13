@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm passionate about coding, technology, and solvi
 - 🚀 I'm driven by a passion for building impactful software.
 
 ## 🛠️ Technologies & Tools
-- 🔭 **Languages** : JavaScript, Python, Java, Rust, Move and Golang
+- 🔭 **Languages** : Typescript, Python, Java,  and Golang
 - 🌱 **Frameworks**: React, Django, Flasks, Node.js, Springboot
 - ⚙️ **Tools**: Git, Docker, Kubernetes, Redis
 
