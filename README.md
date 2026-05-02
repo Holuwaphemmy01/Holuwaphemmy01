@@ -160,7 +160,7 @@ Worked on blockchain-integrated systems for storing and retrieving user-linked w
   <a href="mailto:jacoboluwafemi72@gmail.com">
     <img src="https://img.shields.io/badge/Email%20Me-0F172A?style=for-the-badge&logo=gmail&logoColor=EA4335" />
   </a>
-  <a href="https://linkedin.com/in/YourHandle">
+  <a href="www.linkedin.com/in/oluwafemi-jacob-65b6203b6">
     <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
   </a>
   <a href="https://twitter.com/Femiwire3">
